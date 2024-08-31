@@ -8,7 +8,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'devstore',
+  title: 'TrxStore',
   description: 'Loja de camisetas e moletons para Devs',
 }
 
